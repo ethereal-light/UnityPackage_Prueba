@@ -2,7 +2,7 @@
   "name": "com.ethereal-light.prueba",
   "version": "1.0.0",
   "displayName": "Prueba de Custom Asset",
-  "unity": "123",
+  "unity": "2022.3",
   "description": "Core systems shared across Ethereal Light projects.",
   "author": { "name": "Als" }
 }
