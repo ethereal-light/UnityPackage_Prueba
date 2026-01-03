@@ -1,0 +1,8 @@
+{
+  "name": "com.ethereal-light.UnityPackage_Prueba",
+  "version": "1.0.0",
+  "displayName": "Prueba de Custom Asset",
+  "unity": "2022.3",
+  "description": "Core systems shared across Ethereal Light projects.",
+  "author": { "name": "Ethereal Light" }
+}
